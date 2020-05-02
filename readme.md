@@ -1,9 +1,13 @@
-<header align="center">
+<p align="center">
     <a href="https://leetcode.com/wmemorgan/">
         <img height=85 src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg">
     </a>
     <p align="center">Solutions to LeetCode problems</p>
-</header>
+</p>
+
+- [Top Interview Questions](#top-interview-questions)
+
+## Top Interview Questions
 
 | Title | Difficulty | Solution |
 | :---: | :--------: | :------: |
