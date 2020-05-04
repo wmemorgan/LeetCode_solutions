@@ -12,3 +12,4 @@
 | Title | Difficulty | Solution |
 | :---: | :--------: | :------: |
 | [Two Sums](https://leetcode.com/problems/two-sum) | Easy | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/twoSums.js) |
+| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Easy | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/reverseInteger.js) |
