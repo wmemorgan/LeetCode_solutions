@@ -17,3 +17,4 @@
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/longestCommonPrefix.js) |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/validParentheses.js) |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/removeDuplicateSortedArray.js) |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/merge2SortedLists.js) |
