@@ -16,3 +16,4 @@
 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/romanToInteger.js) |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/longestCommonPrefix.js) |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/validParentheses.js) |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/removeDuplicateSortedArray.js) |
