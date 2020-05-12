@@ -18,3 +18,4 @@
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/validParentheses.js) |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/removeDuplicateSortedArray.js) |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/merge2SortedLists.js) |
+| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/reverseLinkedList.js) |
