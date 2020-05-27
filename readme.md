@@ -20,3 +20,7 @@
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/merge2SortedLists.js) |
 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/reverseLinkedList.js) |
 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/reverseString.js) |
+| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/containsDuplicate.js) |
+| [Single Number](https://leetcode.com/problems/single-number/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/singleNumber.js) |
+| [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/intersection2Arrays.js) |
+| [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/happyNumber.js) |
