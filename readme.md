@@ -29,3 +29,4 @@
 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/firstUniqueChar.js) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/firstUniqueChar.js) |
 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/validSudoku.js) |
+| [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | Medium | N | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/duplicateSubtrees.js) |
