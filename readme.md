@@ -25,3 +25,4 @@
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/intersection2Arrays.js) |
 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/happyNumber.js) |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/isomorphicStrings.js) |
+| [Minium Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | Easy | Y | [Solution.javascript](https://github.com/wmemorgan/LeetCode_solutions/blob/master/minIndexSumTwoLists.js) |
